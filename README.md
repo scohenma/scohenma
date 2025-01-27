@@ -1,16 +1,29 @@
-## Hi there 👋
 
 <!--
-**scohenma/scohenma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**## About Me**
 
-Here are some ideas to get you started:
+Hi! I'm Sabrina Cohen, a third-year student at the University of Notre Dame, majoring in Business Analytics with minors in Finance and Computing & Digital Technologies. My academic and professional experiences have fostered my skills and interests in technology, analytics, and finance. I’m passionate about using these skills in my future endeavors to contribute to businesses and individuals in solving their everyday challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+**##  Skills**
+- **Programming**: Python, R, SQL  
+- **Technical Skills**: Tableau, Power BI , Microsoft Office
+-**Certifications & Programs**: Wall Street Prep - Accounting and Financial Statements Analysis, Microsoft Excel ; CFA Institute - Investment Foundations
+
+---
+
+**## 🎯 Current Projects**
+- **[Python Portafolio]**: 
+
+---
+
+**##  How to Reach Me**
+- **Email**: scohenma@nd.edu 
+- **LinkedIn**: www.linkedin.com/in/sabrinacohenm
+
+---
+
+ Feel free to connect! 
+
 -->
