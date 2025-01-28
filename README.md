@@ -12,7 +12,7 @@ Hi! I'm Sabrina Cohen, a third-year student at the University of Notre Dame, maj
 
 ---
 
-## 🎯 Current Projects
+##  Current Projects
 - **[Python Portafolio]**: 
 
 ---
