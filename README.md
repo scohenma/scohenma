@@ -2,6 +2,8 @@
 
 Hi! I'm Sabrina Cohen, a third-year student at the University of Notre Dame, majoring in Business Analytics with minors in Finance and Computing & Digital Technologies. My academic and professional experiences have fostered my skills and interests in technology, analytics, and finance. I’m passionate about using these skills in my future endeavors to contribute to businesses and individuals in solving their everyday challenges.
 
+This semester, my goals include regularly updating this profile, gaining more experience with Python and GitHub, and developing a well-polished portfolio to showcase to potential employers and recruiters. I am excited to work towards these objectives!
+
 
 ---
 
