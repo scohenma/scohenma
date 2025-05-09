@@ -9,8 +9,8 @@ This semester, my goals include regularly updating this profile, gaining more ex
 
 ##  Skills
 - **Programming**: Python, R, SQL  
-- **Technical Skills**: Tableau, Power BI , Microsoft Office
--**Certifications & Programs**: Wall Street Prep - Accounting and Financial Statements Analysis, Microsoft Excel ; CFA Institute - Investment Foundations
+- **Technical Skills**: Tableau, Power BI , Microsoft Office 
+- **Certifications & Programs**: Wall Street Prep - Accounting and Financial Statements Analysis, Microsoft Excel ; CFA Institute - Investment Foundations
 
 ---
 
